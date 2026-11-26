@@ -97,4 +97,4 @@ Introduces risk management: overcollateralization and liquidation.
 Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
-
+Thus, the decentralized lending and borrowing protocol was successfully implemented. Users can deposit ETH to earn interest and borrow assets by providing sufficient collateral. The protocol also supports dynamic interest calculation and liquidation to maintain financial security.
